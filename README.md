@@ -26,6 +26,9 @@ https://www.figma.com/board/wcuqx6pRl66LuKBlDVSxJI/Home-Services?node-id=0-1&t=8
 ##Access PPT:
 https://docs.google.com/presentation/d/1MaVDJoeAD9lhrfF0Xotym72o-RO6a32y/edit?usp=sharing&ouid=109519722814587971132&rtpof=true&sd=true
 
+## LinkedIn Post
+Link :https://www.linkedin.com/posts/vundamatla-revanth-karthikeya-manikanta-51059b2aa_uiux-figma-uidesign-ugcPost-7438263647052836864-z8Qk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp7QhwBvYuuHP-3-k3hIIvgrQxm03OQlGE
+
 ## Project File
 Task-2-Home-Services-App-UIUX.pdf
 
